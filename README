@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4984
+
+PHP语法检查插件
+
+在PHP文件保存时会自动进行语法检查，有错误会提示，没有错误不提示。
+
+*语法检查使用系统的php -l命令；
+*对非PHP文件不起作用；
+
+安装说明：
+将phpcheck.vim放入vim的plugin目录。
+
+（注：plugin目录一般在~/.vim或vim的安装目录下）
